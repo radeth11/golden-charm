@@ -101,7 +101,7 @@ p {
 
 /* Home Page Style */
 .header-img {
-    width: 100px;
+    width: 125px;
 }
 .footer-logo {
     display: flex;
@@ -1405,6 +1405,7 @@ p {
     margin-right: -10px;
 }
 .footer-section .middle-portion .first-column p{
+    text-align: center;
     color: var(--e-global-color-light-white);
     margin-bottom: 22px;
 }
@@ -1518,7 +1519,7 @@ p {
     transform:translate(0, -5px);
 }
 .footer-section .middle-portion .icons{
-    padding-left: 68px;
+    padding-left: 0px;
     margin-right: -16px;
 }
 .footer-section .middle-portion .icons h4 {
