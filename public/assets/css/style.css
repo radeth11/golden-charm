@@ -1428,6 +1428,9 @@ p {
 .footer-section .middle-portion .lower .icon:hover{
     transform: translateY(-5px);
 }
+.footer-section .middle-portion .lower .icon img {
+    filter: contrast(.4);
+}
 .footer-section .middle-portion .lower .content{
     padding-left: 10px;
 }
