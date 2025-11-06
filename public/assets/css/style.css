@@ -1405,6 +1405,8 @@ p {
     margin-right: -10px;
 }
 .footer-section .middle-portion .first-column p{
+    color: var(--e-global-color-secondary) !important;
+    font-size: 1.3rem;
     text-align: center;
     color: var(--e-global-color-light-white);
     margin-bottom: 22px;
